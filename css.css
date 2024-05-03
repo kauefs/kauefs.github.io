@@ -16,6 +16,9 @@ dd{font-style:italic;color:#C0C0C0;}
 dd,li{padding:1.5px;}
 span#bold{font-weight:bold;}
 body{color:#F0F0F0;border-style:solid;border-width:thick;border-color:#C0C0C0;}
+a:link   {color:#4CAF50;background-color:transparent;text-decoration:none;}
+a:visited{color:#0065FF;background-color:transparent;text-decoration:none;}
+a:hover  {color:#FF8C00;background-color:transparent;text-decoration:none;}
+footer{font-size:smaller;}
 /*classes*/
 .center{text-align:center;}
-footer{font-size:smaller;}
