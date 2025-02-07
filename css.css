@@ -23,9 +23,9 @@ span#green {font-family:Georgia,serif;font-weight:bold;color:#4CAF50;text-decora
 span#orange{font-family:Georgia,serif;font-weight:bold;color:#FF8C00;text-decoration:underline;text-decoration-color:#0065FF;}
 span#foot  {font-family:Georgia,serif;font-weight:bold;text-decoration:underline;text-decoration-color:#0065FF;}
 span#u     {text-decoration:none;}
-span#w     {text-transform:capitalize;font-variant:none;color:#F0F0F0;text-decoration:underline;text-decoration-color:#0065FF;
+span#w     {text-transform:capitalize;font-variant:none;color:#F0F0F0;text-decoration:none;text-decoration-color:#0065FF;
             letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size:2rem;text-align:center;font-family:Georgia,serif;}
-span#b     {text-transform:capitalize;font-variant:none;color:#000000;text-decoration:underline;text-decoration-color:#0065FF;
+span#b     {text-transform:capitalize;font-variant:none;color:#000000;text-decoration:none;text-decoration-color:#0065FF;
             letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size:2rem;text-align:center;font-family:Georgia,serif;
             background-color:#FFFFFF;border-radius:.625rem;width:30rem;background-size:cover;margin:0rem;
             display:block;margin-left:auto;margin-right:auto;}
