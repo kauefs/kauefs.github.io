@@ -18,20 +18,20 @@ body{color:#F0F0F0;border-style:solid;border-width:thick;border-color:#C0C0C0;}
 footer     {font-size:smaller;color:#F0F0F0;align-items:center;justify-content:center;}
 p#bold     {font-weight:bold;}
 span#bold  {font-weight:bold;}
-span#blue  {font-family:Georgia,serif;font-weight:bold;color:#0065FF;text-decoration:underline;text-decoration-color:#0065FF;}
-span#green {font-family:Georgia,serif;font-weight:bold;color:#4CAF50;text-decoration:underline;text-decoration-color:#0065FF;}
-span#orange{font-family:Georgia,serif;font-weight:bold;color:#FF8C00;text-decoration:underline;text-decoration-color:#0065FF;}
-span#foot  {font-family:Georgia,serif;font-weight:bold;text-decoration:underline;text-decoration-color:#0065FF;}
-span#w     {text-transform:capitalize;font-variant:none;color:#F0F0F0;text-decoration:none;
+span#blue  {font-family:Georgia,serif;font-weight:bold;color:   #0065FF;text-decoration:underline;text-decoration-color:#0065FF;}
+span#green {font-family:Georgia,serif;font-weight:bold;color:   #4CAF50;text-decoration:underline;text-decoration-color:#0065FF;}
+span#orange{font-family:Georgia,serif;font-weight:bold;color:   #FF8C00;text-decoration:underline;text-decoration-color:#0065FF;}
+span#foot  {font-family:Georgia,serif;font-weight:bold;                 text-decoration:underline;text-decoration-color:#0065FF;}
+span#w     {text-transform:capitalize;font-variant:none;color:  #F0F0F0;text-decoration:none;
             letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:.015rem;font-size:1rem;text-align:center;font-family:Georgia,serif;}
-span#b     {text-transform:capitalize;font-variant:none;color:#000000;text-decoration:none;
+span#b     {text-transform:capitalize;font-variant:none;color:  #000000;text-decoration:none;
             letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:.15rem;font-size:1rem;text-align:center;font-family:Georgia,serif;
             background-color:#FFFFFF;}
 /*classes*/
 .center{text-align:center;}
-.W{text-transform:capitalize;font-variant:none;color:#F0F0F0;text-decoration:underline;text-decoration-color:#0065FF;
+.W{text-transform:capitalize;font-variant:none;color:   #F0F0F0;text-decoration:underline;  text-decoration-color:#0065FF;
     letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size:2rem;text-align:center;font-family:Georgia,serif;}
-.B{text-transform:capitalize;font-variant:none;color:#000000;text-decoration:underline;text-decoration-color:#0065FF;
+.B{text-transform:capitalize;font-variant:none;color:   #000000;text-decoration:underline;  text-decoration-color:#0065FF;
     letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size:2rem;text-align:center;font-family:Georgia,serif;
     background-color:#FFFFFF;border-radius:.625rem;width:30rem;background-size:cover;margin:0rem;
     display:block;margin-left:auto;margin-right:auto;}
