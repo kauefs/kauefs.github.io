@@ -32,8 +32,8 @@ span#b     {text-transform:capitalize;font-variant:none;color:  #000000;text-dec
 .W{text-transform:capitalize;font-variant:none;color:   #F0F0F0;text-decoration:underline;  text-decoration-color:#0065FF;
     letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size:2rem;text-align:center;font-family:Georgia,serif;}
 .B{text-transform:capitalize;font-variant:none;color:   #000000;text-decoration:underline;  text-decoration-color:#0065FF;
-    letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size:2rem;text-align:center;font-family:Georgia,serif;
-    background-color:#FFFFFF;border-radius:     .625rem;width:15rem;background-size:cover;margin:0rem;
+    letter-spacing:0rem;text-shadow:-.0625rem -.0625rem #0065FF;padding:1rem;font-size: 2rem;text-align:center;font-family:Georgia,serif;
+    background-color:#FFFFFF;border-radius:     .625rem;width:15rem;   background-size:cover;    margin:  0rem;
     display:block;margin-left:auto;margin-right:auto;}
 .k:link   {color:#4CAF50;background-color:transparent;text-decoration:none;}
 .k:visited{color:#0065FF;background-color:transparent;text-decoration:none;}
