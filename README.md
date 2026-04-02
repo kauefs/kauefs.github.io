@@ -9,6 +9,6 @@
 [![Python               ](https://img.shields.io/badge/3-646464?logo=python&logoColor=FFDE57&labelColor=4584B6&color=646464)](https://www.python.org/)
 [![Contributions Welcome](https://img.shields.io/badge/Welcome-4CAF50?logo=apple&logoColor=FFFFFF&label=Contributions&labelColor=6D6E71                                                                                                                  )](https://github.com/kauefs/portfolio/issues)
 
-[![ƊⱭȾɅViƧi🧿Ƞ         ](https://img.shields.io/badge/ƊⱭȾɅViƧi🧿Ƞ&trade;-0065FF?style=plastic&logoColor=0065FF&label=&copy;2025&labelColor=0065FF)](https://datavision.one/)
+[![ƊⱭȾɅViƧi🧿Ƞ         ](https://img.shields.io/badge/ƊⱭȾɅViƧi🧿Ƞ&trade;-0065FF?style=plastic&logoColor=0065FF&label=&copy;2026&labelColor=0065FF)](https://datavision.one/)
 
 </div>
