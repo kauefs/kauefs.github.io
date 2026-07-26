@@ -2,9 +2,9 @@
 
 <div align=center>
 
-![ƊⱭȾɅViƧi🧿Ƞ          ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVisionEye.png)
+[![AIaaS                ](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-FFFFFF?style=plastic&label=ƊⱭȾɅViƧi&#x1F9FF;Ƞ&trade;&labelColor=0065FF)](https://datavision.one/)
 
-![AIaaS                 ](https://img.shields.io/badge/Artificial_Intelligence_as_a_Service-000000)
+![ƊⱭȾɅViƧi🧿Ƞ          ](https://raw.githubusercontent.com/kauefs/StreamLit/%40/img/DataVisionEye.png)
 
 [![Work in Progress     ](https://img.shields.io/badge/Progress-FF103F?logo=icloud&logoColor=FFFFFF&label=Work%20in&labelColor=6D6E71)](https://github.com/kauefs/portfolio/issues)
 
